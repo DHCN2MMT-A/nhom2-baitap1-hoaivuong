@@ -1,0 +1,42 @@
+#h1{
+  font-size: 20px;
+  height: 30px;
+  float: right;
+}
+#h2{
+  padding-left: 10px;
+}
+#h3{
+  padding-left: 10px;
+}
+#h4{
+  padding-left: 10px;
+}
+#header{
+  padding-top: 15px;
+  text-align: center;
+}
+#h5{
+  font-style: italic;
+  font-size: 20px;
+}
+#anh{
+  padding-bottom: 10px;
+}
+#hehe
+{
+
+  text-align: center;
+}
+#hehe1
+{
+  background-color: yellow;
+  height: 30px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+#connguoi{
+  font-style: oblique;
+  color: red;
+}
